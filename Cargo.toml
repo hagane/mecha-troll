@@ -1,0 +1,9 @@
+[package]
+name = "mecha-troll"
+version = "0.1.0"
+authors = ["hagane <deemson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "5"
+rand = "0.6"
